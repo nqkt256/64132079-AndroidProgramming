@@ -1,4 +1,4 @@
-package com.example.helloandroid;
+package com.example.ex2_linearlayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 
