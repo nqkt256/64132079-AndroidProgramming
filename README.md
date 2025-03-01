@@ -33,7 +33,7 @@ Dưới đây là danh sách các thư mục trong dự án:
 | [**HelloAndroid**](https://github.com/nqkt256/64132079-AndroidProgramming/tree/7421b1409fd90fd4124fddc3d4fd937d6cfc033d/HelloAndroid) | Bài thực hành cơ bản về ứng dụng Android đầu tiên | <img src="https://your-image-link.com/helloandroid.png" alt="Hello Android" width="60%"> |
 | [**Ex2_LinearLayout**](https://github.com/nqkt256/64132079-AndroidProgramming/tree/7421b1409fd90fd4124fddc3d4fd937d6cfc033d/Ex2_LinearLayout) | Bài tập về LinearLayout trong Android | <img src="https://your-image-link.com/ex2.png" alt="Ex2 LinearLayout" width="60%"> |
 | [**Ex3_SimpleSumApp**](https://github.com/nqkt256/64132079-AndroidProgramming/tree/7421b1409fd90fd4124fddc3d4fd937d6cfc033d/Ex3_SimpleSumApp) | Ứng dụng tính tổng hai số đơn giản | <p align="center"><img src="https://github.com/user-attachments/assets/2a3228f5-b086-4c34-8e67-2f6601137acb" alt="Ex3 Simple Sum App" width="60%"></p> |
-| [**Ex4_AddSubMulDiv_Onclick**](https://github.com/nqkt256/64132079-AndroidProgramming/tree/7421b1409fd90fd4124fddc3d4fd937d6cfc033d/Ex4_AddSubMulDiv_Onclick) | Ứng dụng thực hiện phép toán với sự kiện OnClick | <img src="https://your-image-link.com/ex4.png" alt="Ex4 Add Sub Mul Div OnClick" width="60%"> |
+| [**Ex4_AddSubMulDiv_Onclick**](https://github.com/nqkt256/64132079-AndroidProgramming/tree/7421b1409fd90fd4124fddc3d4fd937d6cfc033d/Ex4_AddSubMulDiv_Onclick) | Ứng dụng thực hiện phép toán với sự kiện OnClick | <p align="center"><img src="https://github.com/user-attachments/assets/caa3ec0d-b0c1-4102-8397-3e1e9531af7e" alt="Ex4 Add Sub Mul Div OnClick" width="60%"></p> |
 
 ---
 
