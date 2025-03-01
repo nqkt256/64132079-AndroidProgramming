@@ -47,7 +47,7 @@ Dưới đây là danh sách các thư mục trong dự án:
 |--------------|--------------|
 | **Bài 1**: Ứng dụng Tính BMI | ... |
 | **Bài 2**: Ứng dụng Đổi đơn vị đo | ... |
-| **Bài 3**: Quản lý Tính chu vi, diện tích | ... |
+| **Bài 3**: Ứng dụng Tính chu vi, diện tích hình học | ... |
 
 > 🔥 *Đang cập nhật danh sách bài tập làm thêm!*
 
