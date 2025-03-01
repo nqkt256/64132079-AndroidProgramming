@@ -1,6 +1,7 @@
 # 📱 **64132079-AndroidProgramming**
 
-Chào mừng bạn đến với **64132079-AndroidProgramming**! 
+Chào mừng bạn đến với **64132079-AndroidProgramming**!
+
 Đây là repository lưu trữ các bài thực hành, bài tập và dự án trong học phần **Lập trình thiết bị di động**.
 
 ---
