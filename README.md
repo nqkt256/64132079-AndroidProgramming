@@ -7,7 +7,7 @@ Chào mừng bạn đến với **64132079-AndroidProgramming**!
 
 ## 🎨 **Giới thiệu**
 
-<img src="https://github.com/nqkt256/64132079-AndroidProgramming/issues/1#issue-2889035620" alt="Android Programming Banner" width="100%">
+<img src="https://github.com/nqkt256/64132079-AndroidProgramming/issues/1#issue-2889035620.png" alt="Android Programming Banner" width="100%">
 
 
 🌟 **Mục tiêu:** Học tập và thực hành lập trình Android qua các bài tập từ cơ bản đến nâng cao.
