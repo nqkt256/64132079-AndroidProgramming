@@ -35,19 +35,21 @@ Dưới đây là danh sách các thư mục trong dự án:
 | [**Ex3_SimpleSumApp**](https://github.com/nqkt256/64132079-AndroidProgramming/tree/7421b1409fd90fd4124fddc3d4fd937d6cfc033d/Ex3_SimpleSumApp) | Ứng dụng tính tổng hai số đơn giản | <p align="center"><img src="https://github.com/user-attachments/assets/2a3228f5-b086-4c34-8e67-2f6601137acb" alt="Ex3 Simple Sum App" width="60%"></p> |
 | [**Ex4_AddSubMulDiv_Onclick**](https://github.com/nqkt256/64132079-AndroidProgramming/tree/7421b1409fd90fd4124fddc3d4fd937d6cfc033d/Ex4_AddSubMulDiv_Onclick) | Ứng dụng thực hiện phép toán với sự kiện OnClick | <p align="center"><img src="https://github.com/user-attachments/assets/caa3ec0d-b0c1-4102-8397-3e1e9531af7e" alt="Ex4 Add Sub Mul Div OnClick" width="60%"></p> |
 
+> 🔥 *Đang cập nhật danh sách bài tập cơ bản!*
+
 ---
 
-## 🌟 **Bài tập làm thêm** (Chưa hoàn thành 😅)
+## 🌟 **Bài tập làm thêm**
 
-> **📌 Ghi chú:** Đây là các bài tập nâng cao, chưa được thực hiện.
+> **📌 Ghi chú:** Đây là các bài tập nâng cao, bài tập làm thêm.
 
-| 🚀 **Bài tập** | 📌 **Trạng thái** |
+| 🚀 **Bài tập** | 📌 **Ảnh minh họa** |
 |--------------|--------------|
-| 🎨 **Bài 1**: Ứng dụng đổi màu nền bằng Button | ⏳ Chưa làm |
-| 🧮 **Bài 2**: Ứng dụng máy tính nâng cao | ⏳ Chưa làm |
-| 📞 **Bài 3**: Quản lý danh bạ đơn giản | ⏳ Chưa làm |
+| **Bài 1**: Ứng dụng Tính BMI | ... |
+| **Bài 2**: Ứng dụng Đổi đơn vị đo | ... |
+| **Bài 3**: Quản lý Tính chu vi, diện tích | ... |
 
-> 🔥 *Cập nhật danh sách bài tập làm thêm sau khi hoàn thành!*
+> 🔥 *Đang cập nhật danh sách bài tập làm thêm!*
 
 ---
 
