@@ -1,4 +1,4 @@
-package com.example.ex3_simplesumapp;
+package com.example.ex4_addsubmuldiv_onclick;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.ex3_simplesumapp", appContext.getPackageName());
+        assertEquals("com.example.ex4_addsubmuldiv_onclick", appContext.getPackageName());
     }
 }

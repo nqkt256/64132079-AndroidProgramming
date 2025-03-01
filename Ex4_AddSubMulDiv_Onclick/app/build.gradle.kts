@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.ex3_simplesumapp"
+    namespace = "com.example.ex4_addsubmuldiv_onclick"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.ex3_simplesumapp"
+        applicationId = "com.example.ex4_addsubmuldiv_onclick"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
