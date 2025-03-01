@@ -28,12 +28,12 @@ Chào mừng bạn đến với **64132079-AndroidProgramming**!
 
 Dưới đây là danh sách các thư mục trong dự án:
 
-| 📁 **Thư mục** | 📝 **Mô tả** | 📷 **Screenshot** |
+| 📁 **Bài tập** | 📝 **Mô tả** | 📷 **Screenshot** |
 |--------------|--------------|------------------|
-| 👋 **HelloAndroid** | Bài thực hành cơ bản về ứng dụng Android đầu tiên | <img src="https://your-image-link.com/helloandroid.png" alt="Hello Android" width="70%"> |
-| 🏗 **Ex2_LinearLayout** | Bài tập về LinearLayout trong Android | <img src="https://your-image-link.com/ex2.png" alt="Ex2 LinearLayout" width="70%"> |
-| ➕ **Ex3_SimpleSumApp** | Ứng dụng tính tổng hai số đơn giản | <img src="https://your-image-link.com/ex3.png" alt="Ex3 Simple Sum App" width="70%"> |
-| 🔢 **Ex4_AddSubMulDiv_Onclick** | Ứng dụng thực hiện phép toán với sự kiện OnClick | <img src="https://your-image-link.com/ex4.png" alt="Ex4 Add Sub Mul Div OnClick" width="70%"> |
+| **HelloAndroid** | Bài thực hành cơ bản về ứng dụng Android đầu tiên | <img src="https://your-image-link.com/helloandroid.png" alt="Hello Android" width="70%"> |
+| [**Ex2_LinearLayout**](https://github.com/nqkt256/64132079-AndroidProgramming/tree/7421b1409fd90fd4124fddc3d4fd937d6cfc033d/Ex2_LinearLayout) | Bài tập về LinearLayout trong Android | <img src="https://your-image-link.com/ex2.png" alt="Ex2 LinearLayout" width="70%"> |
+| **Ex3_SimpleSumApp** | Ứng dụng tính tổng hai số đơn giản | <img src="https://your-image-link.com/ex3.png" alt="Ex3 Simple Sum App" width="70%"> |
+| **Ex4_AddSubMulDiv_Onclick** | Ứng dụng thực hiện phép toán với sự kiện OnClick | <img src="https://your-image-link.com/ex4.png" alt="Ex4 Add Sub Mul Div OnClick" width="70%"> |
 
 ---
 
