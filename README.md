@@ -24,7 +24,7 @@ Chào mừng bạn đến với **64132079-AndroidProgramming**!
 
 ---
 
-## 📂 **Cấu trúc thư mục**
+## 📂 **Bài tập trên lớp**
 
 Dưới đây là danh sách các thư mục trong dự án:
 
