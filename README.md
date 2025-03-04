@@ -6,7 +6,7 @@ Chào mừng bạn đến với **64132079-AndroidProgramming**!
 
 ---
 
-## 🎨 **Giới thiệu**
+## 🎯 **Giới thiệu**
 
 <img src="https://github.com/user-attachments/assets/a62c1b34-237f-471a-8ecb-96dbaa7f13cc" alt="Android Programming Banner" width="100%">
 
