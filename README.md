@@ -24,7 +24,7 @@ Chào mừng bạn đến với **64132079-AndroidProgramming**!
 
 ---
 
-## 📂 **Cấu trúc thư mục**
+## 📂 **Bài tập trên lớp**
 
 Dưới đây là danh sách các thư mục trong dự án:
 
@@ -45,7 +45,7 @@ Dưới đây là danh sách các thư mục trong dự án:
 
 | 🚀 **Bài tập** | 📌 **Ảnh minh họa** |
 |--------------|--------------|
-| **Bài 1**: Ứng dụng Tính BMI | ... |
+| [**Bài 1**: Ứng dụng Tính BMI](https://github.com/nqkt256/64132079-AndroidProgramming/tree/main/BMI_Calculator) | ... |
 | **Bài 2**: Ứng dụng Đổi đơn vị đo | ... |
 | **Bài 3**: Ứng dụng Tính chu vi, diện tích hình học | ... |
 
