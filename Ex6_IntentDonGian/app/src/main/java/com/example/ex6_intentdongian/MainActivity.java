@@ -8,10 +8,11 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
-    Button nutMH2, nutMH3;
+    Button nutMH2;
+    Button nutMH3;
     void TimDieuKhien(){
-        Button nutMH2 = findViewById(R.id.btnMH2);
-        Button nutMH3 = findViewById(R.id.btnMH3);
+        nutMH2 = findViewById(R.id.btnMH2);
+        nutMH3 = findViewById(R.id.btnMH3);
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
