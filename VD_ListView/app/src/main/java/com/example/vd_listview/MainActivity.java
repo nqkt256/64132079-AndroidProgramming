@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         dsMonHoc.add("Lập trình thiết bị di động");
         dsMonHoc.add("Nguyên lý học máy");
         dsMonHoc.add("Linux Server và Quản trị mạng");
+        dsMonHoc.add("Toán rời rạc");
         //B2.
         ArrayAdapter<String> adapterMH;
         adapterMH = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, dsMonHoc);
