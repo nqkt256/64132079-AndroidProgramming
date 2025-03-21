@@ -15,7 +15,7 @@
         <TextView
             android:id="@+id/textView4"
             android:layout_width="match_parent"
-            android:layout_height="93dp"
+            android:layout_height="100dp"
             android:fontFamily="@font/poppins_semibold"
             android:gravity="center"
             android:text="Math is Fun!"
@@ -25,7 +25,7 @@
 
     <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="70dp">
 
         <ImageView
             android:id="@+id/imageView"
