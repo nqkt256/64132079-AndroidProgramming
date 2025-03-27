@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         listViewMH = findViewById(R.id.lvMH);
-
         //B1. Chuẩn bị dữ liệu, hard code
         dsMonHoc = new ArrayList<String>();
         dsMonHoc.add("Lập trình thiết bị di động");
