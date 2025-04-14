@@ -1,6 +1,7 @@
 package com.example.usingrecyclerview_landscape;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -51,7 +52,7 @@ public class LandScapeAdapter extends RecyclerView.Adapter<LandScapeAdapter.Item
         return listData.size();
     }
 
-    class ItemLandHolder extends RecyclerView.ViewHolder{
+    class ItemLandHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
         TextView tvCaption;
         ImageView ivLandscape;
 
@@ -59,6 +60,27 @@ public class LandScapeAdapter extends RecyclerView.Adapter<LandScapeAdapter.Item
             super(itemView);
             tvCaption = itemView.findViewById(R.id.textViewCaption);
             ivLandscape = itemView.findViewById(R.id.imageViewLand);
+
+            itemView.setOnClickListener(this);
+
         }
+        public void onClick(View v) {
+            int vitriDuocLick = getAdapterPosition();
+            if (vitriDuocLick != RecyclerView.NO_POSITION) {
+                LandScape ptDuocChon = listData.get(vitriDuocLick);
+
+                // Chuyển sang ItemActivity
+                Intent intent = new Intent(v.getContext(), ItemActivity.class);
+                intent.putExtra("title", ptDuocChon.getLandCaption());
+
+                // Lấy ID ảnh
+                String packageName = v.getContext().getPackageName();
+                int imagesID = v.getContext().getResources().getIdentifier(ptDuocChon.getLandImageFileName(), "mipmap", packageName);
+                intent.putExtra("imageResId", imagesID);
+
+                v.getContext().startActivity(intent);
+            }
+        }
+
     }
 }
